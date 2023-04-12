@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dices</string>
+    <string name="studio">Konstantinov SoftStudio</string>
+    <string name="from">from</string>
+    <string name="roll_one">Бросить кубик</string>
+    <string name="roll_two">Бросить кубики</string>
+</resources>
