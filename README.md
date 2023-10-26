@@ -23,4 +23,4 @@
 
 
 Вы можите скачать APK-файл по этой ссылке:
-https://drive.google.com/file/d/1gk84rpPStcLT3BU5BtLNRs2VFWUOk1l7/view?usp=drive_link
+https://drive.google.com/file/d/1Ty5azwIYLPIJUbchj69VKwwWECWgtCx8/view?usp=drive_link
