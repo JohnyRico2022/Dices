@@ -18,3 +18,9 @@
 <image src="/ScreenShots/4.jpg" width=30% height=30%>
 
 <image src="/ScreenShots/5.jpg" width=30% height=30%>
+
+
+
+
+Вы можите скачать APK-файл по этой ссылке:
+https://drive.google.com/file/d/1gk84rpPStcLT3BU5BtLNRs2VFWUOk1l7/view?usp=drive_link
