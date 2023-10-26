@@ -2,10 +2,19 @@
 
 Простое приложение для игры в Кости.
 
-Приложение реализовано на **ViewPager2** и **Fragments**
+Приложение реализовано на **ViewPager2** и **Fragments**.
 
-<image src="/ScreenShots/1.jpg" alt="Текст с описанием картинки">
+<image src="/ScreenShots/1.jpg" width=30% height=30%>
+
+Позволяет выбрать **один** или **два кубика**.
+
+<image src="/ScreenShots/2.jpg" width=30% height=30%>
+
+<image src="/ScreenShots/3.jpg" width=30% height=30%>
 
 
-![Текст с описанием картинки](/ScreenShots/1.jpg)
+Также реализована горизонтальная ориентация экрана.
 
+<image src="/ScreenShots/4.jpg" width=30% height=30%>
+
+<image src="/ScreenShots/5.jpg" width=30% height=30%>
