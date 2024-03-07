@@ -10,8 +10,9 @@ import com.example.dices.databinding.FragmentOneDiceBinding
 
 
 class OneDiceFragment : Fragment() {
-    lateinit var binding: FragmentOneDiceBinding
+    private lateinit var binding: FragmentOneDiceBinding
     override fun onCreateView(
+
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View {
@@ -28,9 +29,9 @@ class OneDiceFragment : Fragment() {
 
     private fun rollDice() {
         val dice = Dice(6)
-        val kubikRoll = dice.roll()
+        val cubeRoll = dice.roll()
         val diceImage = binding.imDice
-        when (kubikRoll) {
+        when (cubeRoll) {
             1 -> diceImage.setImageResource(R.drawable.dice_1)
             2 -> diceImage.setImageResource(R.drawable.dice_2)
             3 -> diceImage.setImageResource(R.drawable.dice_3)
@@ -38,10 +39,9 @@ class OneDiceFragment : Fragment() {
             5 -> diceImage.setImageResource(R.drawable.dice_5)
             6 -> diceImage.setImageResource(R.drawable.dice_6)
         }
-
     }
 
-    class Dice(val numSides: Int) {
+    class Dice(private val numSides: Int) {
         fun roll(): Int {
             return (1..numSides).random()
         }
